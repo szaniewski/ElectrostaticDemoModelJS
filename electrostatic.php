@@ -57,7 +57,7 @@
 	</div>
     </div>
 
-    <canvas class ="well span8"  id ="canvas"></canvas>
+    <canvas class="well span8"  id ="canvas"></canvas>
 
 </div>	
 <!-- Main hero unit for a primary marketing message or call to action -->
